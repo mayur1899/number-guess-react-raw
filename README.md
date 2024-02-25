@@ -9,7 +9,7 @@ This is an very minimal number guesser app which is built using react. driver.js
     "instagram": "musical__mayur",
     "packages & frameworks": [
         "ReactJS",
-   >     "DriverJS",
+        "DriverJS",
     ]
 }
 ```
