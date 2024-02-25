@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#re-button{
+    cursor: pointer;
+    background-color: rgb(0, 80, 172);
+    border: none;
+    border-radius: 360px;
+    padding: 3px 5px;
+    -webkit-tap-highlight-color: transparent;
+    transition: all 0.2s ease-out   ;
+}
+
+#re-button:active{
+    rotate: 720deg;
+}
+
+#re-button-img{
+    filter: invert();
+}

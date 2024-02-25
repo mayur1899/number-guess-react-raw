@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#heading-component{
+    font-family: "Kanit", sans-serif;
+    font-size: 2.3rem; 
+    color: white;
+    text-shadow: 1px 1px 1px #00d15e;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    text-align: center;
+    margin: 3px;
+}
+
+#heading-component:hover{
+    text-shadow: 1px 1px 20px #00d15e;
+}
