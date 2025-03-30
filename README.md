@@ -6,7 +6,7 @@ This is an very minimal number guesser app which is built using react. driver.js
 "Creator":{
     "name": "Mayur",
     "age": "15 (at time of creation)",
-    "instagram": "musical__mayur",
+    "instagram": "code.cosmos18",
     "packages & frameworks": [
         "ReactJS",
         "DriverJS",
